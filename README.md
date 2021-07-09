@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 More content content
 
 Content so more and more
+
+2021 Git.Training
