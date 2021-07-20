@@ -18,3 +18,5 @@ Content so more and more
 
 ## How to contribute
 Please fork this repo.
+
+Adding a line for rebasing example.
