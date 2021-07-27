@@ -14,7 +14,7 @@ More content content
 
 Content so more and more
 
-2021 Git.Training
+2021 Git.Training. All rights reserved
 
 ## How to contribute
 Please fork this repo.
